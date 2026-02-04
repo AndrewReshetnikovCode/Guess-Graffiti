@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff71e2b29eed0c54aa1f1b2c9ef9bbdd, type: 3}
+  m_Name: SpriteDatabase
+  m_EditorClassIdentifier: 
+  sprites:
+  - id: 1
+    text: Exsom
+    sprite: {fileID: 21300000, guid: ff497b75772869146a0f8b7d22e9fa79, type: 3}
+    difficulty: 3
+  - id: 2
+    text: Sunches
+    sprite: {fileID: 21300000, guid: 2b5944cd2a815c54e85f65af4dbfd174, type: 3}
+    difficulty: 2
+  - id: 4
+    text: Steser
+    sprite: {fileID: 21300000, guid: d2bed682986a3024b9ea48e9bb001ad9, type: 3}
+    difficulty: 4
+  - id: 5
+    text: Odeith
+    sprite: {fileID: 21300000, guid: 7557a7930bd532747bdf550bf04bc231, type: 3}
+    difficulty: 1
+  - id: 6
+    text: Tatrik
+    sprite: {fileID: 21300000, guid: f7726aad745ef3c44bdd029f5a1a3ea2, type: 3}
+    difficulty: 6
+  - id: 7
+    text: Odeith
+    sprite: {fileID: 21300000, guid: 4704deecb8e5d6843b76633834d88dcb, type: 3}
+    difficulty: 3
+  - id: 8
+    text: Feis
+    sprite: {fileID: 21300000, guid: 5915251a49b535f4e86a8a9750c02be0, type: 3}
+    difficulty: 7
+  - id: 9
+    text: Buice
+    sprite: {fileID: 21300000, guid: 9ff83ec3a55fedd438c931ede7612594, type: 3}
+    difficulty: 6
+  - id: 10
+    text: Icarus
+    sprite: {fileID: 21300000, guid: fc0c7c7001524734485ffe134a6107e2, type: 3}
+    difficulty: 2
+  - id: 11
+    text: Gorila
+    sprite: {fileID: 21300000, guid: c8b231d0a875c4542995b68cc6c7c9bb, type: 3}
+    difficulty: 4
+  - id: 12
+    text: Buice
+    sprite: {fileID: 21300000, guid: b54684be7a198e347a55a9056109e5b7, type: 3}
+    difficulty: 2
+  - id: 14
+    text: Tnals
+    sprite: {fileID: 21300000, guid: d16d26bb90d6a554199f3f908099b6e9, type: 3}
+    difficulty: 9
+  - id: 15
+    text: Freak
+    sprite: {fileID: 21300000, guid: 9e33387cb8e4685489fc59b63313afcc, type: 3}
+    difficulty: 1
+  - id: 16
+    text: Start
+    sprite: {fileID: 21300000, guid: b8a5a69e3269a0542a6c8582aa3bc147, type: 3}
+    difficulty: 0
+  - id: 17
+    text: Diseh
+    sprite: {fileID: 21300000, guid: 2d7baf106e900b940bf26a146b8d5bf4, type: 3}
+    difficulty: 5
+  - id: 18
+    text: Ceser
+    sprite: {fileID: 21300000, guid: 1736439cab97e2a47a7fb107ecdf90a7, type: 3}
+    difficulty: 2
+  - id: 19
+    text: Rozkois
+    sprite: {fileID: 21300000, guid: f8d014c0bd6026d48a3fe18059cc72c7, type: 3}
+    difficulty: 6
+  - id: 20
+    text: Rosko
+    sprite: {fileID: 21300000, guid: e2ad8555528b7e94f9eab15014e1f49c, type: 3}
+    difficulty: 3
+  - id: 21
+    text: Tribal
+    sprite: {fileID: 21300000, guid: db30a2866b146ca468e70668d43efdde, type: 3}
+    difficulty: 4
+  - id: 22
+    text: Liquid
+    sprite: {fileID: 21300000, guid: 2305472cb44227c4eb3b3eceb6f909c5, type: 3}
+    difficulty: 3
+  - id: 23
+    text: Experience
+    sprite: {fileID: 21300000, guid: 01da3cf4db4db6b43b367c76079f5a13, type: 3}
+    difficulty: 1
+  - id: 24
+    text: Hems
+    sprite: {fileID: 21300000, guid: 0bb39298315d82a40aa7838ab075130d, type: 3}
+    difficulty: 5
+  - id: 25
+    text: Mania
+    sprite: {fileID: 21300000, guid: ebe788344062f764b8872df15886e5c1, type: 3}
+    difficulty: 6
+  - id: 26
+    text: Rebok
+    sprite: {fileID: 21300000, guid: 77aaaa6068f88254591a0b16d50ba488, type: 3}
+    difficulty: 1
+  - id: 27
+    text: Ceser
+    sprite: {fileID: 21300000, guid: 598267994db77aa40a780dd6d75f2318, type: 3}
+    difficulty: 3
+  - id: 28
+    text: Voham
+    sprite: {fileID: 21300000, guid: e60f36579f5bbe645be30f0682f41658, type: 3}
+    difficulty: 9
+  - id: 29
+    text: Elks
+    sprite: {fileID: 21300000, guid: 97cd7b98fd3e4464cb464eac6eebdfa1, type: 3}
+    difficulty: 6
+  - id: 30
+    text: Shoen
+    sprite: {fileID: 21300000, guid: fd5140ccaa0e38848b080cbf26b1ec44, type: 3}
+    difficulty: 4
+  - id: 31
+    text: Meirim
+    sprite: {fileID: 21300000, guid: 0ddb85af930c55148b9cb9fd9b709933, type: 3}
+    difficulty: 8
+  - id: 32
+    text: Biser
+    sprite: {fileID: 21300000, guid: 2b6e4635a4c7c4d48a741a500914be6b, type: 3}
+    difficulty: 1
+  - id: 33
+    text: Dips
+    sprite: {fileID: 21300000, guid: 24c96bf84cef94244919a410aed435da, type: 3}
+    difficulty: 8
+  - id: 34
+    text: Asmonk
+    sprite: {fileID: 21300000, guid: d4cfb38197d2c064d956435dad9da99c, type: 3}
+    difficulty: 7
+  - id: 35
+    text: Ceser
+    sprite: {fileID: 21300000, guid: 53510114ca830cb4da949f09414b3e3e, type: 3}
+    difficulty: 5
+  - id: 36
+    text: Ceser
+    sprite: {fileID: 21300000, guid: 4a972bc54264d114b8c910443300d6d9, type: 3}
+    difficulty: 3
+  - id: 37
+    text: Sizno
+    sprite: {fileID: 21300000, guid: d903d668870b09941aa7cd21cee226b0, type: 3}
+    difficulty: 9
+  - id: 38
+    text: Asmonk
+    sprite: {fileID: 21300000, guid: 2c1b2409f063cc94e82e61b6a59534ea, type: 3}
+    difficulty: 8
+  - id: 39
+    text: Noise
+    sprite: {fileID: 21300000, guid: be8575707c8e1c44dbffd8abec6220c9, type: 3}
+    difficulty: 5
+  - id: 40
+    text: Cold
+    sprite: {fileID: 21300000, guid: 7958504c6a237bf4d93a2d3aafb98e6d, type: 3}
+    difficulty: 3
+  - id: 41
+    text: Cant
+    sprite: {fileID: 21300000, guid: e5bd5472c1772b24e98d4bd2b40d44e8, type: 3}
+    difficulty: 10
+  - id: 42
+    text: AllOverThePlace
+    sprite: {fileID: 21300000, guid: b472ba1700095ec4ea082c296d3d2d56, type: 3}
+    difficulty: 2
+  - id: 43
+    text: Goroln
+    sprite: {fileID: 21300000, guid: 71513f27961f4bb4599b7a74b3bc01df, type: 3}
+    difficulty: 7
+  - id: 3
+    text: Twins
+    sprite: {fileID: 21300000, guid: a6560ab24031a974a8657feadaa2c4dc, type: 3}
+    difficulty: 8
