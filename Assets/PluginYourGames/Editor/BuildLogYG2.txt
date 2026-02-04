@@ -1,3 +1,0 @@
-﻿Build path: D:/Guess Graffity/Build/Guess Graffity.exe
-Build number: 1
-PluginYG version: 2.007
