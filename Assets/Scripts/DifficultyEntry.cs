@@ -7,4 +7,5 @@ public class DifficultyEntry
     public int difficultyIndex;   // Индекс сложности
     public string difficultyName; // Название
     public Color color;
+    public int minSpritesToUnlockNext;
 }
